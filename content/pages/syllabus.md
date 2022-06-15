@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, requirements, grading, and the schedule of lecture topics,
+  exams, and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -261,7 +264,7 @@ New and useful:
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Short exercise 1 due]({{< baseurl >}}/pages/assignments#si1)
+{{% resource_link c0be9473-719d-0eb1-7f2f-3b02b6e18597 "Short exercise 1 due" "#si1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +294,7 @@ Statutory subject matter and judicial exceptions:
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Short exercise 2 due]({{< baseurl >}}/pages/assignments#si2)
+{{% resource_link c0be9473-719d-0eb1-7f2f-3b02b6e18597 "Short exercise 2 due" "#si2" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -425,7 +428,7 @@ Doctrine of exhaustion
 Legal and equitable remedies for infringement
 {{< tdclose >}}
 {{< tdopen >}}
-[Short exercise 3 due]({{< baseurl >}}/pages/assignments#si3)
+{{% resource_link c0be9473-719d-0eb1-7f2f-3b02b6e18597 "Short exercise 3 due" "#si3" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -467,7 +470,7 @@ Courtroom visit to current patent trial: [Federal Courthouse, Boston](http://www
 Student presentations of patent-search results
 {{< tdclose >}}
 {{< tdopen >}}
-[Patent-search report due]({{< baseurl >}}/pages/assignments#psa)
+{{% resource_link c0be9473-719d-0eb1-7f2f-3b02b6e18597 "Patent-search report due" "#psa" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

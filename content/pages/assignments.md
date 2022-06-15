@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains short exercises related to the readings, and a
+  description of the patent-search assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ These exercises are designed to provide some structure to your reading of the as
 
 ### {{< anchor "si1" >}}{{< /anchor >}}Short Exercise 1 for Session 9
 
-[Structural Rubber v. Park Rubber (PDF)]({{< baseurl >}}/resources/mit15_628js13_read20)
+{{% resource_link 9fccb199-30d1-4df3-872b-0aed79e37358 "Structural Rubber v. Park Rubber (PDF)" %}}
 
 1.  For what reason did the district court (the trial court) conclude that the defendant (Park Rubber) was not liable for infringing plaintiff's patents?
 2.  What matter of fact did the appellant (Structural Rubber) argue should not have been given to the jury to decide?
@@ -23,7 +25,7 @@ These exercises are designed to provide some structure to your reading of the as
 
 ### {{< anchor "si2" >}}{{< /anchor >}}Short Exercise 2 for Session 11
 
-[Bilski v. Kappos (PDF)]({{< baseurl >}}/resources/mit15_628js13_read26)
+{{% resource_link 62335bd8-e607-d6b6-fd50-edfaf14590a6 "Bilski v. Kappos (PDF)" %}}
 
 1.  What did the court enumerate as the three generally accepted exceptions to the patentable subject matter set forth in 35 USC § 101?
 2.  What were the four issues on which all of the justices of the Supreme Court agreed?
@@ -31,7 +33,7 @@ These exercises are designed to provide some structure to your reading of the as
 
 ### {{< anchor "si3" >}}{{< /anchor >}}Short Exercise 3 for Session 16
 
-[eBay v. MercExchange (PDF)]({{< baseurl >}}/resources/mit15_628js13_read37)
+{{% resource_link 99f4d2ae-edca-fa5e-a610-82783adf4e91 "eBay v. MercExchange (PDF)" %}}
 
 1.  What are the four well-established requirements that a plaintiff must demonstrate when seeking a permanent injunction?
 2.  According to the majority opinion in this case, how did the Court of Appeals depart erroneously from this four-factor test?
