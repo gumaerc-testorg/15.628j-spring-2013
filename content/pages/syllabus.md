@@ -449,7 +449,7 @@ Anatomy of patent litigation
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Courtroom visit to current patent trial: [Federal Courthouse, Boston](http://www.mad.uscourts.gov)
+Courtroom visit to current patent trial: {{% resource_link "43c07df3-9724-45e3-887b-f2461ac48e27" "Federal Courthouse, Boston" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
